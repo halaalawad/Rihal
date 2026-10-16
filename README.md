@@ -8,6 +8,9 @@ The journey begins in **Hail**, where players explore historical sites, learn lo
 
 [Click here to play Rihal](https://www.figma.com/proto/KyARFmBo1aCXAmxpdTGZxM/Untitled?node-id=1-2&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=0)
 
+### 🎮 Prototype 2
+
+[Click here to play Prototype 2](https://heritage-quest-3d.lovable.app/)
 ##  Tools
 
 * Figma
